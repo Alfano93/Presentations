@@ -63,6 +63,7 @@ These functions look at things like:
 - User defined rules                                 |
 
 ---
+### Definition 
 
 **Weight** \- The that is assigned to a unit which is equal to the probability that the unit will be selected to store an object
 
