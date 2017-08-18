@@ -43,4 +43,10 @@ Unlike other distributed storage systems (like Swift), there is no upper bound t
 **S**calable
 
 **H**ashing
+---
+Ceph looks at (minimally) three "units" when placing data
 
+- The Pool  |
+- The Node  |
+- The Drive |
+ 
