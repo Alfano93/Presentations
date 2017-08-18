@@ -49,4 +49,21 @@ Ceph looks at (minimally) three "units" when placing data
 - The Pool  |
 - The Node  |
 - The Drive |
+---
+
+Each level has a heuristic function that calculates a weight for each unit
+
+
+These functions look at things like:
+
+
+- Free space on the drive                            |
+- Types of drives                                    |
+- Network responsivness ( is the node even alive? )  |
+- User defined rules                                 |
+
+---
+
+**Weight** \- The that is assigned to a unit which is equal to the probability that the unit will be selected to store an object
+
  
