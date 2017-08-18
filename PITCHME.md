@@ -16,6 +16,11 @@ Ceph is designed to tolerate multi-node failures.
  - By default, Ceph creates 2 copies of everything
 ---
 # Flexibility
-
+Ceph works on commodity hardware
+ - HDD and SSD can live in the same cluster
+ - Can be built for capacity, performance, or both
+---
+# Scalability
+Unlike other distributed storage systems (like Swift), there is no upper bound to the number of nodes you can have in a Ceph cluster.
  
 
