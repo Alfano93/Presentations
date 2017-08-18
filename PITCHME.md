@@ -34,15 +34,15 @@ Unlike other distributed storage systems (like Swift), there is no upper bound t
 
 ## The Backbone of Ceph 
 ---
-**C**ontrolled
+**C** ontrolled
 
-**R**eplication
+**R** eplication
 
-**U**nder
+**U** nder
 
-**S**calable
+**S** calable
 
-**H**ashing
+**H** ashing
 ---
 Ceph looks at (minimally) three "units" when placing data
 
