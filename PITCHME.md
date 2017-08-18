@@ -1,8 +1,8 @@
 ---?image=images/Ceph_Logo.png&size=auto 95%
 # Ceph 101
 ### What it is
-### How to set it up
-### And how it works
+### How it works
+### And how to set it up
 ---
 ### What is Ceph?
 
@@ -28,6 +28,17 @@ Ceph works on commodity hardware
 
 
 Unlike other distributed storage systems (like Swift), there is no upper bound to the number of nodes you can have in a Ceph cluster.
-
  - Petabyte scale clusters can be built using the same configs as a 100 TB cluster
+---
+# CRUSH: The Backbone of Ceph 
+---
+**C**ontrolled
+
+**R**eplication
+
+**U**nder
+
+**S**calable
+
+**H**ashing
 
