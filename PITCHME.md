@@ -4,11 +4,10 @@
 ### How to set it up
 ### And how it works
 ---
+### What is Ceph?
 
-### What is Ceph
 
-#### Ceph is a distributed storage system designed for resiliency, flexibility, and scalability.
-
+ Ceph is a distributed storage system designed for resiliency, flexibility, and scalability.
 ---
 # Resiliency
 
