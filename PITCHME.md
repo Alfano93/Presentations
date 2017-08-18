@@ -22,5 +22,5 @@ Ceph works on commodity hardware
 ---
 # Scalability
 Unlike other distributed storage systems (like Swift), there is no upper bound to the number of nodes you can have in a Ceph cluster.
- 
+ - Petabyte scale clusters can be built using the same configs as a 100 TB cluster
 
