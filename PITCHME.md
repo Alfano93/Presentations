@@ -10,6 +10,12 @@
  Ceph is a distributed storage system designed for resiliency, flexibility, and scalability.
 ---
 # Resiliency
+Ceph is designed to tolerate multi-node failures.
+ - Resiliency through replicaiton
+ - Copies are stored on different nodes
+ - By default, Ceph creates 2 copies of everything
+---
+# Flexibility
 
-### Resiliency through replicaiton
+ 
 
