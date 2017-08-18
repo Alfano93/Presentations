@@ -65,6 +65,6 @@ These functions look at things like:
 ---
 ### Definition 
 
-**Weight** \- The that is assigned to a unit which is equal to the probability that the unit will be selected to store an object
+**Weight** \- The number [0.0,1.0] that is assigned to a unit which is equal to the probability that the unit will be selected to store an object
 
  
